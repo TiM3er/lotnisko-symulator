@@ -1,0 +1,25 @@
+
+ysquid:S1488V"[Immediately return this expression instead of assigning it to the temporary variable "zgl".(·ú®§8ï‡£Ó….
+wsquid:S1488\"YImmediately return this expression instead of assigning it to the temporary variable "b".(ØÕŞ8ï‡£Ó….
+—"squid:ClassVariableVisibilityCheck"]Make rozpocznijObsluge a static final constant or non-public and provide accessors if needed.(ÜÍ»¸üÿÿÿÿ8ï‡£Ó….
+”"squid:ClassVariableVisibilityCheck"ZMake zakonczObsluge a static final constant or non-public and provide accessors if needed.(Ÿª®Îøÿÿÿÿ8ï‡£Ó….
+psquid:S00117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åß«â8ï‡£Ó….
+{squid:S00116"WRename this field "ilosc_miejsc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îñ¼úÿÿÿÿ8ï‡£Ó….
+vsquid:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(È¥º8ï‡£Ó….
+|squid:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(ù×¥šùÿÿÿÿ8ï‡£Ó….
+¼%squid:RedundantThrowsDeclarationCheck%"ƒRemove the declaration of thrown exception 'dissimlab.simcore.SimControlException', as it cannot be thrown from constructor's body.(åß«â8ï‡£Ó….
+vsquid:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(È¥º8ï‡£Ó….
+|squid:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(ù×¥šùÿÿÿÿ8ï‡£Ó….
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ÂÂ8ï‡£Ó….
+[
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ÚãŸşÿÿÿÿ8ï‡£Ó….
+[
+squid:S1069"9Replace this use of System.out or System.err by a logger.(Ûİ×ıÿÿÿÿ8ï‡£Ó….
+[
+squid:S106@"9Replace this use of System.out or System.err by a logger.(¼ƒùøÿÿÿÿ8ï‡£Ó….
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ã“³´ûÿÿÿÿ8ï‡£Ó….
+Ksquid:S1905V"-Remove this unnecessary cast to "Zgloszenie".(·ú®§8ï‡£Ó….
+Usquid:S1135n"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ï‡£Ó….
+Usquid:S1135t"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ï‡£Ó….

@@ -1,0 +1,9 @@
+
+lsquid:S1450"URemove the "parent" field and declare it as a local variable in the relevant methods.(ÒêÒ“
+\squid:S1155)">Use isEmpty() to check whether the collection is empty or not.(åòáÐ8•‚äÓ….
+Nsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(ºý“ùÿÿÿÿ8þÇÔ….
+asquid:S11550">Use isEmpty() to check whether the collection is empty or not.(£Þæƒÿÿÿÿÿ8•‚äÓ….
+Nsquid:S1135!"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Dsquid:S1068"-Remove this unused "generator" private field.(­Ž·”
